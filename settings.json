@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "Man patinka žaisti TuskulenuSMP!",
-        "Pakviesk savo draugus į TuskulenuSMP!",
+        "Kažko nesupranti ar nori pranešti? Parašyk į chat ir Admin turi atsakyt. ",
         "Prisijunk prie mūsų Discord! --> https://discord.gg/SQtrXY8ZNS "
       ]
     },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/SQtrXY8ZNS",
     "events": {
       "connect": true,
       "disconnect": true,
